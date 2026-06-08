@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
  
-[/ohpiglet](https://ohpiglet.github.io/ohpiglet/) is the children's section of the [/mananamanana](https://mananamanana.com/) website.
+[/ohpiglet](https://ohpiglet.mananamanana.com/) is the children's section of the [/mananamanana](https://mananamanana.com/) website.
 
 This is what it’s all about. Well, this is some of what it’s about.
 
