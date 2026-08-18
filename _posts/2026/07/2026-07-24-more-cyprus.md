@@ -4,11 +4,7 @@ layout: post
 date: "2026-07-24"
 ---
 
-There was even more fun in Cyprus on our holidays.
-
-![yo yo]({{ site.baseurl }}/assets/images/2026/IMG_20260707_191834.jpg)
-
-Exploring the rock pools at the turtle beach.
+There was even more fun in Cyprus on our holidays. Exploring the rock pools at the turtle beach.
 
 ![yo yo]({{ site.baseurl }}/assets/images/2026/IMG-20260806-WA0009.jpg) 
 
