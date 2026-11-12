@@ -8,7 +8,9 @@ We found a mirror on the street.
 
 Riu checks it out.
 
-![image](images/tumblr_inline_nebnoyOVTT1qlj3bd.jpg)
+#fix
+
+![yo yo]({{ site.baseurl }}/assets/images/2014/tumblr_inline_nebnoyOVTT1qlj3bd.jpg)
 
 Pau admires himself. Why not? Everyone else does.
 

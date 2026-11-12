@@ -4,7 +4,7 @@ layout: post
 date: "2014-09-12"
 ---
 
-![image](images/tumblr_inline_nbshk1HX4H1qlj3bd.jpg)
+![yo yo]({{ site.baseurl }}/assets/images/tumblr_inline_nbshk1HX4H1qlj3bd.jpg)
 
 Auntie Anne teaching her little Catalan how to agitate in the streets.
 
