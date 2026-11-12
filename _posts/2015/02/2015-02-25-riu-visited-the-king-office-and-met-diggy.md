@@ -7,8 +7,6 @@ date: "2015-02-25"
 
 Riu visited the King office and met Diggy.
 
-#fix
-
 ![yo yo]({{ site.baseurl }}/assets/images/2015/tumblr_inline_nkbw4v68VD1qlj3bd.jpg)
 
 She also saw the Papa Pear buckets. Papa Pear is her favourite.
